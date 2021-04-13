@@ -1,0 +1,13 @@
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.exe
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.deps.json
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.runtimeconfig.json
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.runtimeconfig.dev.json
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.dll
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\bin\Debug\netcoreapp3.1\PrimeTDD.pdb
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.csprojAssemblyReference.cache
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.AssemblyInfoInputs.cache
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.AssemblyInfo.cs
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.csproj.CoreCompileInputs.cache
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.dll
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.pdb
+C:\Users\ccooper2\dev\Lab_4_3_TDD\PrimeTDD\obj\Debug\netcoreapp3.1\PrimeTDD.genruntimeconfig.cache
